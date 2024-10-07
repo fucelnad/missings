@@ -14,7 +14,7 @@ To install the application, follow these steps:
 3. Install requirements: `pip install -r requirements.txt`
 
 ## Usage
-Start the application by running `python -m src.app` and open [http://127.0.0.1:8050/](http://127.0.0.1:8050/) (it may take a while). 
+Start the application by running `python -m src.app` and open [http://127.0.0.1:8080/](http://127.0.0.1:8080/) (it may take a while). 
 It is recommended to use Google Chrome/Microsoft Edge/Mozilla Firefox. To navigate through the pages of the application, please follow the diagram:
 
 ![diagram](src/program_files/diagram.png)
